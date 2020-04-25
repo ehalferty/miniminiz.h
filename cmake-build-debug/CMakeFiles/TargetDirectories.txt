@@ -1,0 +1,3 @@
+C:/Users/edwar/CLionProjects/Nu/cmake-build-debug/CMakeFiles/Nu.dir
+C:/Users/edwar/CLionProjects/Nu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edwar/CLionProjects/Nu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
